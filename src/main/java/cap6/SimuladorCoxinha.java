@@ -1,5 +1,5 @@
 
-package teste;
+package cap6;
 
 public class SimuladorCoxinha {
     private int estoque;
